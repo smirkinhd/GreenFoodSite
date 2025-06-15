@@ -1,4 +1,14 @@
-# munasipovaSite
+# Сайт здорового питания в рамках ВКР (MVP)
+
+## Описание
+
+Работа выполнена в качестве практической части (не моей) к ВКР по Прикладной информатики.
+
+Frontend - Vue + Vite.JS
+
+Backend - NodeJS
+
+DB - sqllite
 
 This template should help get you started developing with Vue 3 in Vite.
 
